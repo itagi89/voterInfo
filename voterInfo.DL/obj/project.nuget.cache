@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MxqDL1zJgdakwDz9xJ4gfP2yZS7YvPZdp/Iq+FpXqO6G6gOk02dhBr+pZMjeNCKM2JMkzXCR5VHpMFZh7tOgyg==",
+  "success": true,
+  "projectFilePath": "D:\\Projets\\voteinfo project\\VoterDetailsAPI\\voterInfo.DL\\voterInfo.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mallikarjun\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Mallikarjun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mallikarjun\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

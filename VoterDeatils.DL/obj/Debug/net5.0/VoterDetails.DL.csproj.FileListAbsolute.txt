@@ -1,0 +1,15 @@
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.csprojAssemblyReference.cache
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.AssemblyInfoInputs.cache
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.AssemblyInfo.cs
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.csproj.CoreCompileInputs.cache
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\bin\Debug\net5.0\VoterDetails.DL.deps.json
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\bin\Debug\net5.0\VoterDetails.DL.runtimeconfig.json
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\bin\Debug\net5.0\VoterDetails.DL.runtimeconfig.dev.json
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\bin\Debug\net5.0\VoterDetails.DL.dll
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\bin\Debug\net5.0\ref\VoterDetails.DL.dll
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\bin\Debug\net5.0\VoterDetails.DL.pdb
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.dll
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\ref\VoterDetails.DL.dll
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.pdb
+D:\Projets\voteinfo project\VoterDetailsAPI\VoterDeatils.DL\obj\Debug\net5.0\VoterDetails.DL.genruntimeconfig.cache
